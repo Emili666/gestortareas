@@ -1,6 +1,0 @@
-com\gestortareas\miapp\service\TareaService.class
-com\gestortareas\miapp\model\Tarea.class
-com\gestortareas\miapp\controller\TareaController.class
-com\gestortareas\miapp\MiappApplication.class
-com\gestortareas\miapp\repository\TareaRepository.class
-com\gestortareas\miapp\dto\TareaDTO.class
